@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Purification</string>
+    <string name="app_title">Self Purification Plan</string>
+    <string name="tab_text_new">Create New</string>
+    <string name="tab_text_history">History</string>
+
+
+    <string name="q_01">Tahajud Prayer</string>
+    <string name="q_02">Recitation of Holy Quran</string>
+    <string name="q_03">Ishraq Prayer</string>
+    <string name="q_04">Chasht Prayer</string>
+    <string name="q_05">Awabeen Prayers</string>
+    <string name="q_06">Lecture Shykh ul Islam Dr. M. Tahir Ul Qadri</string>
+    <string name="q_07">Daily Tasbihat</string>
+    <string name="q_08">Five times Fard Parayer</string>
+    <string name="q_09">Reading of HSI’ Book</string>
+    <string name="q_10">1-2 Hadiths Al-Minhaj Al Sawi</string>
+
+</resources>
